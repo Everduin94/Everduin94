@@ -1,5 +1,6 @@
 ## Tools - Neovim | Arch - Awesome | Tmux | Alacritty
 ![daily driver](daily-driver.png)
+![tiling](tiling-window-manager.png)
 
 ## Work & Side Projects - Angular | Lua 
 - 🔭 I’m currently working on
