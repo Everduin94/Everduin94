@@ -1,4 +1,4 @@
-## Tools - Neovim | Arch | Tmux | Alacritty
+## Tools - Neovim | Arch - Awesome | Tmux | Alacritty
 ![daily driver](daily-driver.png)
 
 ## Work & Side Projects - Angular | Lua 
