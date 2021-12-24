@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+## Erik Verduin Github Profile
 - 🔭 I’m currently working on
   - Angular Applications @ Cisco
   - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher) Written in Lua
