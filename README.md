@@ -1,8 +1,8 @@
-## Erik Verduin Github Profile
+
 - 🔭 I’m currently working on
-  - Angular Applications @ Cisco
+  - Angular Applications @ [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
   - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher) Written in Lua
-  - Rewriting https://yami-flashcards.dev/ 
+  - Rewriting [Yami Flashcards](https://yami-flashcards.dev/)
 - 🌱 I’m currently learning
   - Lua
 - 📫 How to reach me: ...
