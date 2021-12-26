@@ -1,4 +1,4 @@
-## Tools - Neovim | Arch - Awesome | Tmux | Alacritty
+## Tools - Neovim | Arch + Awesome | Tmux | Alacritty
 ![daily driver](daily-driver.png)
 ![tiling](tiling-window-manager.png)
 
