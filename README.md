@@ -10,6 +10,7 @@
 - 🌳 I used to work on
   - Fullstack Angular / Springboot
   - Utility / Telecom GIS Applications
+  - Angular articles on [Medium](https://erxk.medium.com/)
 - 🌱 I’m currently learning Lua
 - 📫 How to reach me: ...
 - ⚡ Fun fact, I am a brown belt in Brazilian Jiu Jitsu
