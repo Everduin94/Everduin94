@@ -1,4 +1,4 @@
-## Work & Side Projects - Angular | Lua 
+## Projects - Angular | Lua 
 - 🔭 I’m currently working on
   - Angular applications at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
   - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher) written in Lua
