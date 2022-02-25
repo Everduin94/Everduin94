@@ -1,7 +1,3 @@
-## Tools - Neovim | Arch + Awesome | Tmux | Alacritty
-![daily driver](daily-driver.png)
-![tiling](tiling-window-manager.png)
-
 ## Work & Side Projects - Angular | Lua 
 - 🔭 I’m currently working on
   - Angular applications at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
@@ -14,3 +10,7 @@
 - 🌱 I’m currently learning Lua
 - 📫 How to reach me: ...
 - ⚡ Fun fact, I am a brown belt in Brazilian Jiu Jitsu
+
+## Tools - Neovim | Arch + Awesome | Tmux | Alacritty
+![daily driver](daily-driver.png)
+![tiling](tiling-window-manager.png)
