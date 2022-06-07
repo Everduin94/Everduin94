@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on
   - Angular applications at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
   - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher) written in Lua
-  - Rewriting [Yami Flashcards](https://yami-flashcards.dev/)
+  - Rewriting [Yami Code](https://yamicode.dev/)
 - 🌳 I used to work on
   - Fullstack Angular / Springboot
   - Utility / Telecom GIS Applications
