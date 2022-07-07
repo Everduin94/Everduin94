@@ -1,7 +1,7 @@
 ## Projects - Angular | Lua 
 - 🔭 I’m currently working on
   - Angular applications at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
-  - [Yami Code](https://yamicode.dev/) - written in Angular & Firebase
+  - [Yami](https://yamicode.dev/) - written in Angular & Firebase
   - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher) - written in Lua
 - 🌳 I used to work on
   - Fullstack Angular / Springboot
