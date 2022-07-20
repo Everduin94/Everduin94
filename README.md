@@ -7,9 +7,9 @@
   - Fullstack Angular / Springboot
   - Utility / Telecom GIS Applications
   - Angular articles on [Medium](https://erxk.medium.com/)
-- 🌱 I’m currently learning Lua
-- 📫 How to reach me: ...
-- ⚡ Fun fact, I am a brown belt in Brazilian Jiu Jitsu
+- 🌱 I’m currently learning NgRx, Elf, Firebase v9
+- 📫 How to reach me: [Twitter](https://twitter.com/Erxk_v)
+- ⚡ Fun fact: I am a brown belt in Brazilian Jiu Jitsu
 
 ## Tools - Neovim | Arch + Awesome | Tmux | Alacritty
 ![daily driver](daily-driver.png)
