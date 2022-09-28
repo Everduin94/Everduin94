@@ -7,7 +7,7 @@
   - Fullstack Angular / Springboot
   - Utility / Telecom GIS Applications
   - Angular articles on [Medium](https://erxk.medium.com/)
-- 🌱 I’m currently learning NgRx, Elf, Firebase v9
+- 🌱 I’m currently learning Svelte, Svelte-Kit, Postgres
 - 📫 How to reach me: [Twitter](https://twitter.com/Erxk_v)
 - ⚡ Fun fact: I am a brown belt in Brazilian Jiu Jitsu
 
