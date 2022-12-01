@@ -7,7 +7,7 @@
   - Utility / Telecom GIS Applications
   - Angular articles on [Medium](https://erxk.medium.com/)
 - 🌱 I’m currently learning Svelte, Svelte-Kit, Postgres
-- 📫 How to reach me: [Twitter](https://twitter.com/Erxk_v)
+- 📫 How to reach me: [Twitter](https://twitter.com/BoogersLLC)
 - ⚡ Fun fact: I am a brown belt in Brazilian Jiu Jitsu
 
 ## Tools - Neovim | Arch + Awesome | Tmux | Alacritty
