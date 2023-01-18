@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on
   - Angular apps at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
-  - [Flotes](https://flotes.app) - Notetaking
+  - [Flotes](https://flotes.app) (Passion Project)
   - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher)
 - 🌳 I used to work on
   - Utility GIS Applications
@@ -19,10 +19,11 @@
 ![2023-01-13_15-29](https://user-images.githubusercontent.com/14320878/213086156-3680b731-e6a2-43ca-8d77-af59facc56e3.png)
 
 # Projects
-![svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ## [Flotes - Notetaking with Flashcard Features](https://flotes.app)
 **Notetaking** with **Flashcard Features**
 
