@@ -1,5 +1,5 @@
 # Hello There 👋 
-<img align="right" src="https://i.pinimg.com/originals/f0/71/70/f07170d92b9b3e88a823c0e2d83411ca.gif">
+<img align="right" src="https://i.pinimg.com/originals/f0/71/70/f07170d92b9b3e88a823c0e2d83411ca.gif" width="480">
 
 - 🔭 I’m currently working on
   - Angular applications at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
