@@ -2,15 +2,13 @@
 <img align="right" src="https://i.pinimg.com/originals/f0/71/70/f07170d92b9b3e88a823c0e2d83411ca.gif" width="480">
 
 - 🔭 I’m currently working on
-  - Angular applications at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
-  - [Flotes](https://flotes.app) - Practicable Measurable Notetaking. 
-  - [Blog](https://blog.flotes.app) - Tech Learning Blog & Flotes Roadmap
-  - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher) - written in Lua
+  - Angular apps at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
+  - [Flotes](https://flotes.app) - Notetaking
+  - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher)
 - 🌳 I used to work on
-  - Fullstack Angular / Springboot
-  - Utility / Telecom GIS Applications
-  - Angular articles on [Medium](https://erxk.medium.com/)
-- 🌱 I’m currently learning Svelte, Svelte-Kit, Postgres
+  - Utility GIS Applications
+  - Angular articles [Medium](https://erxk.medium.com/)
+- 🌱 I’m currently learning: Svelte-Kit, Postgres
 - 📫 How to reach me: Discord (BoogersLLC#7997)
 - ⚡ Fun fact: I am a brown belt in Brazilian Jiu Jitsu
 
