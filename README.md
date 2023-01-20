@@ -16,7 +16,7 @@
 ![neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
-![2023-01-13_15-29](https://user-images.githubusercontent.com/14320878/213086156-3680b731-e6a2-43ca-8d77-af59facc56e3.png)
+![2023-01-20_09-14](https://user-images.githubusercontent.com/14320878/213733111-e5d19744-a869-4d7f-b9e0-74d6625dceed.png)
 
 # Projects
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
