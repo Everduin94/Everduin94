@@ -10,7 +10,7 @@
   - Angular articles [Medium](https://erxk.medium.com/)
 - 🌱 I’m currently learning: Svelte-Kit, Postgres
 - 📫 How to reach me: Discord (BoogersLLC#7997)
-- ⚡ Fun fact: I am a brown belt in Brazilian Jiu Jitsu
+- ⚡ Fun fact: I am a black belt in Brazilian Jiu Jitsu
 
 # Setup 
 ![neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
