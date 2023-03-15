@@ -27,7 +27,7 @@
 ![tw](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![image](https://user-images.githubusercontent.com/14320878/211018315-f7c8b6e3-67ca-418b-a386-0c88f3cafcd1.png)
+![image](https://user-images.githubusercontent.com/14320878/225352402-b510802e-61f8-4a44-bd4a-64099898c005.png)
 ![image](https://user-images.githubusercontent.com/14320878/211018365-b44246d2-1184-43c7-beb0-083efd5b5c5e.png)
 ![image](https://user-images.githubusercontent.com/14320878/211018558-c4df7f29-4003-46df-a10a-d84c99d33e96.png)
 
