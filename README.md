@@ -10,8 +10,11 @@
   - Utility GIS Applications
   - Angular articles [Medium](https://erxk.medium.com/)
 - 🌱 I’m currently learning: Svelte, Postgres, ZOD
-- 📫 How to reach me: Discord (BoogersLLC#7997)
+- 📫 How to contact me: Socials at the bottom
 - ⚡ Fun fact: I am a black belt in Brazilian Jiu Jitsu
+
+
+<p></p>
 
 <h3 align="center">
 
@@ -23,6 +26,8 @@ Setup
 
 ![2023-01-20_09-14](https://user-images.githubusercontent.com/14320878/213733111-e5d19744-a869-4d7f-b9e0-74d6625dceed.png)
 </h3>
+
+
 
 <p></p>
 
@@ -83,6 +88,17 @@ https://user-images.githubusercontent.com/14320878/225088948-43073a0e-400c-4c5f-
 
 <img width="1106" alt="image" src="https://user-images.githubusercontent.com/14320878/225348986-3b3b1bca-7b94-484f-aab8-7570ccb3c58b.png">
 <img width="1130" alt="image" src="https://github.com/Everduin94/Everduin94/assets/14320878/2b476859-d9f6-4eb4-bbb2-fa8699e7b915">
+
+
+<h3 align="center">
+
+Socials 
+
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erik_verduin)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0JUSnGOjqEQqhDFr3R7-hA)
+[![discord](https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/boogersllc)
+
+</h3>
 
 
 <!--
