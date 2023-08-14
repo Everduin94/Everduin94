@@ -56,11 +56,7 @@ Projects
 Web Application / PWA - Markdown Notetaking with Flashcard Features 
 </p>
 
-
-![image](https://user-images.githubusercontent.com/14320878/225352402-b510802e-61f8-4a44-bd4a-64099898c005.png)
-![image](https://user-images.githubusercontent.com/14320878/211018365-b44246d2-1184-43c7-beb0-083efd5b5c5e.png)
-![image](https://user-images.githubusercontent.com/14320878/211018558-c4df7f29-4003-46df-a10a-d84c99d33e96.png)
-
+![2023-08-11_13-27](https://github.com/Everduin94/Everduin94/assets/14320878/552f78ae-0b60-4686-b4f2-da07b2f36826)
 
 <h3 align="center">
 
@@ -87,7 +83,6 @@ https://user-images.githubusercontent.com/14320878/225088948-43073a0e-400c-4c5f-
 
 
 <img width="1106" alt="image" src="https://user-images.githubusercontent.com/14320878/225348986-3b3b1bca-7b94-484f-aab8-7570ccb3c58b.png">
-<img width="1130" alt="image" src="https://github.com/Everduin94/Everduin94/assets/14320878/2b476859-d9f6-4eb4-bbb2-fa8699e7b915">
 
 
 <h3 align="center">
