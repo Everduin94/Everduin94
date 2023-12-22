@@ -24,7 +24,8 @@ Setup
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 
-![2023-01-20_09-14](https://user-images.githubusercontent.com/14320878/213733111-e5d19744-a869-4d7f-b9e0-74d6625dceed.png)
+![home-3](https://github.com/Everduin94/Everduin94/assets/14320878/712460bf-2384-441d-bd14-29d9bfe5e3e7)
+
 </h3>
 
 
