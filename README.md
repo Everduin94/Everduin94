@@ -91,6 +91,7 @@ Socials
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0JUSnGOjqEQqhDFr3R7-hA)
 [![discord](https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/boogersllc)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-verduin/)
 
 </h3>
 
