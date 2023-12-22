@@ -89,7 +89,6 @@ https://user-images.githubusercontent.com/14320878/225088948-43073a0e-400c-4c5f-
 
 Socials 
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erik_verduin)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0JUSnGOjqEQqhDFr3R7-hA)
 [![discord](https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/boogersllc)
 
