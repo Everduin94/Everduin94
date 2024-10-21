@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on
   - Angular apps at [Cisco](https://www.cisco.com/c/m/en_us/customer-experience/index.html)
   - [Flotes](https://flotes.app)
+  - [Tomatillo Timer](https://timer.flotes.app)
   - [Better Commits](https://github.com/Everduin94/better-commits)
   - [Nvim Quick Switcher](https://github.com/Everduin94/nvim-quick-switcher)
 - 🌳 I used to work on
