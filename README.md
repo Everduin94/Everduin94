@@ -5,7 +5,7 @@ My name is Erik, I am a senior software engineer at Cisco
 - In the past, I worked on [Utility (Electric) GIS applications at NISC](https://www.esri.com/partners/national-information-a2T70000000TNZcEAO/nisc-mapwise-a2d70000000UZWgAAO).
 - Fun fact, I am a black belt in Brazilian Jiu Jitsu
 
-### Personal Projets
+### Personal Projects
 
 ![Svelte](https://img.shields.io/badge/svelte-181825?style=for-the-badge&logo=svelte&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-181825?style=for-the-badge&logo=postgresql&logoColor=white)
